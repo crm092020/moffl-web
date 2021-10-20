@@ -1,0 +1,285 @@
+{
+    "version": "1.0",
+    "league": {
+        "victoryPointsEndWeek": "17",
+        "currentWaiverType": "BBID_FCFS",
+        "playerLimitUnit": "LEAGUE",
+        "taxiSquad": "0",
+        "endWeek": "17",
+        "maxWaiverRounds": "4",
+        "lockout": "No",
+        "defaultTradeExpirationDays": "7",
+        "nflPoolStartWeek": "1",
+        "victoryPointsTie": "4",
+        "auction_kind": "live",
+        "franchises": {
+            "count": "12",
+            "franchise": [
+                {
+                    "logo": "https://www71.myfantasyleague.com/fflnetdynamic2020/48649_franchise_logo0001.jpg",
+                    "auctionStartAmount": "150",
+                    "icon": "https://www71.myfantasyleague.com/fflnetdynamic2020/48649_franchise_icon0001.jpg",
+                    "bbidAvailableBalance": "120.00",
+                    "name": "Nick Knights",
+                    "id": "0001",
+                    "waiverSortOrder": "11"
+                },
+                {
+                    "logo": "https://media1.tenor.com/images/59f9b9c4c9a7a84a49a177eee44dd254/tenor.gif?itemid=12699962",
+                    "auctionStartAmount": "162",
+                    "icon": "https://media1.tenor.com/images/59f9b9c4c9a7a84a49a177eee44dd254/tenor.gif?itemid=12699962",
+                    "bbidAvailableBalance": "106.00",
+                    "name": "Chris Crocs",
+                    "id": "0002",
+                    "waiverSortOrder": "10"
+                },
+                {
+                    "logo": "https://static.wikia.nocookie.net/live-action/images/a/ae/The_Replacements_2000_DVD_Cover.PNG",
+                    "auctionStartAmount": "210",
+                    "icon": "https://static.wikia.nocookie.net/live-action/images/a/ae/The_Replacements_2000_DVD_Cover.PNG",
+                    "bbidAvailableBalance": "24.00",
+                    "name": "Harry Hedgehogs",
+                    "id": "0003",
+                    "waiverSortOrder": "3"
+                },
+                {
+                    "icon": "https://www71.myfantasyleague.com/fflnetdynamic2021/48649_franchise_icon0004.jpg",
+                    "name": "Harper Hugglers",
+                    "waiverSortOrder": "12",
+                    "auctionStartAmount": "127",
+                    "logo": "https://www71.myfantasyleague.com/fflnetdynamic2021/48649_franchise_logo0004.jpg",
+                    "bbidAvailableBalance": "153.00",
+                    "id": "0004",
+                    "stadium": "Naming Rights For Sale Field",
+                    "sound": "https://www71.myfantasyleague.com/fflnetdynamic2021/48649_franchise_sound0004.mp3"
+                },
+                {
+                    "logo": "https://www71.myfantasyleague.com/fflnetdynamic2019/48649_franchise_logo0005.jpg",
+                    "auctionStartAmount": "158",
+                    "icon": "https://www71.myfantasyleague.com/fflnetdynamic2019/48649_franchise_icon0005.jpg",
+                    "bbidAvailableBalance": "117.00",
+                    "name": "Travis Tarantulas",
+                    "id": "0005",
+                    "waiverSortOrder": "4"
+                },
+                {
+                    "icon": "https://thumbs.gfycat.com/ThoseVigorousArgentineruddyduck-size_restricted.gif",
+                    "name": "David Dominators",
+                    "waiverSortOrder": "6",
+                    "auctionStartAmount": "78",
+                    "logo": "https://thumbs.gfycat.com/ThoseVigorousArgentineruddyduck-size_restricted.gif",
+                    "bbidAvailableBalance": "120.00",
+                    "id": "0006",
+                    "sound": "https://www.youtube.com/watch?v=VcByktP-mdE&ab_channel=stevevanderstaaij"
+                },
+                {
+                    "logo": "https://media.giphy.com/media/S9udhJEkBYcB54itkx/giphy.gif",
+                    "auctionStartAmount": "144",
+                    "icon": "https://media.giphy.com/media/S9udhJEkBYcB54itkx/giphy.gif",
+                    "bbidAvailableBalance": "1.00",
+                    "name": "Johnny Jumping Beans",
+                    "id": "0007",
+                    "waiverSortOrder": "8"
+                },
+                {
+                    "logo": "https://image.spreadshirtmedia.com/image-server/v1/mp/compositions/T812A1PA1663PT17X79Y48D1009968686S17/views/1,width=300,height=300,appearanceId=1,backgroundColor=E8E8E8/trust-the-process-1-men-s-premium-t-shirt.jpg",
+                    "auctionStartAmount": "122",
+                    "icon": "https://i.redd.it/ldew8s6fanx21.jpg",
+                    "bbidAvailableBalance": "158.00",
+                    "name": "Philip Phantoms",
+                    "id": "0008",
+                    "waiverSortOrder": "1"
+                },
+                {
+                    "logo": "https://media.giphy.com/media/uE1ESefEvQ4gDgrV0L/giphy.gif?cid=ecf05e47tsw479m9ai8fguxzojacpqn1oh85ues5lxym5oh2&rid=giphy.gif&ct=g",
+                    "auctionStartAmount": "165",
+                    "icon": "https://media.giphy.com/media/uE1ESefEvQ4gDgrV0L/giphy.gif?cid=ecf05e47tsw479m9ai8fguxzojacpqn1oh85ues5lxym5oh2&rid=giphy.gif&ct=g",
+                    "bbidAvailableBalance": "161.00",
+                    "name": "Shawn Sharks",
+                    "id": "0009",
+                    "waiverSortOrder": "5"
+                },
+                {
+                    "logo": "https://media.giphy.com/media/3ohs7S1BeGEUlaIqRy/giphy.gif",
+                    "auctionStartAmount": "136",
+                    "icon": "https://media.giphy.com/media/3ohs7S1BeGEUlaIqRy/giphy.gif",
+                    "bbidAvailableBalance": "111.00",
+                    "name": "Tom Twisters",
+                    "id": "0010",
+                    "waiverSortOrder": "9"
+                },
+                {
+                    "logo": "http://i.giphy.com/qaI1cInARbFtu.gif",
+                    "auctionStartAmount": "234",
+                    "icon": "http://i.giphy.com/qaI1cInARbFtu.gif",
+                    "bbidAvailableBalance": "100.00",
+                    "name": "Shabab Shellfish",
+                    "id": "0011",
+                    "waiverSortOrder": "2"
+                },
+                {
+                    "logo": "https://www71.myfantasyleague.com/fflnetdynamic2021/48649_franchise_logo0012.jpg",
+                    "auctionStartAmount": "114",
+                    "icon": "https://www71.myfantasyleague.com/fflnetdynamic2021/48649_franchise_icon0012.jpg",
+                    "bbidAvailableBalance": "85.00",
+                    "name": "Jeevan Janitors",
+                    "id": "0012",
+                    "waiverSortOrder": "7"
+                }
+            ]
+        },
+        "standingsSort": "VICTORY_POINTS,PTS,",
+        "id": "48649",
+        "minBid": "1",
+        "nflPoolType": "Confidence",
+        "history": {
+            "league": [
+                {
+                    "url": "http://www71.myfantasyleague.com/2021/home/48649",
+                    "year": "2021"
+                },
+                {
+                    "url": "http://www98.myfantasyleague.com/2008/home/77945",
+                    "year": "2008"
+                },
+                {
+                    "url": "http://www61.myfantasyleague.com/2009/home/13970",
+                    "year": "2009"
+                },
+                {
+                    "url": "http://www65.myfantasyleague.com/2010/home/26836",
+                    "year": "2010"
+                },
+                {
+                    "url": "http://www66.myfantasyleague.com/2011/home/30963",
+                    "year": "2011"
+                },
+                {
+                    "url": "http://www56.myfantasyleague.com/2012/home/27671",
+                    "year": "2012"
+                },
+                {
+                    "url": "http://www63.myfantasyleague.com/2013/home/14564",
+                    "year": "2013"
+                },
+                {
+                    "url": "http://www58.myfantasyleague.com/2014/home/18306",
+                    "year": "2014"
+                },
+                {
+                    "url": "http://www71.myfantasyleague.com/2015/home/46832",
+                    "year": "2015"
+                },
+                {
+                    "url": "http://www71.myfantasyleague.com/2016/home/48649",
+                    "year": "2016"
+                },
+                {
+                    "url": "http://www71.myfantasyleague.com/2017/home/48649",
+                    "year": "2017"
+                },
+                {
+                    "url": "http://www71.myfantasyleague.com/2018/home/48649",
+                    "year": "2018"
+                },
+                {
+                    "url": "http://www71.myfantasyleague.com/2019/home/48649",
+                    "year": "2019"
+                },
+                {
+                    "url": "https://www71.myfantasyleague.com/2020/home/48649",
+                    "year": "2020"
+                }
+            ]
+        },
+        "rosterSize": "17",
+        "name": "MoFFL",
+        "bbidSeasonLimit": "170",
+        "rosterLimits": {
+            "position": [
+                {
+                    "name": "QB",
+                    "limit": "0-0"
+                },
+                {
+                    "name": "RB",
+                    "limit": "0-0"
+                },
+                {
+                    "name": "WR",
+                    "limit": "0-0"
+                },
+                {
+                    "name": "TE",
+                    "limit": "0-0"
+                },
+                {
+                    "name": "PK",
+                    "limit": "0-0"
+                },
+                {
+                    "name": "Def",
+                    "limit": "0-0"
+                }
+            ]
+        },
+        "bbidIncrement": "1",
+        "mobileAlerts": "0011,",
+        "victoryPointsBuckets": "11 6 0",
+        "starters": {
+            "count": "6-11",
+            "position": [
+                {
+                    "name": "QB",
+                    "limit": "1-2"
+                },
+                {
+                    "name": "RB",
+                    "limit": "2-4"
+                },
+                {
+                    "name": "WR",
+                    "limit": "3-5"
+                },
+                {
+                    "name": "TE",
+                    "limit": "1-3"
+                },
+                {
+                    "name": "PK",
+                    "limit": "1"
+                },
+                {
+                    "name": "Def",
+                    "limit": "1"
+                }
+            ]
+        },
+        "nflPoolEndWeek": "17",
+        "bestLineup": "No",
+        "precision": "2",
+        "victoryPointsStartWeek": "1",
+        "lastRegularSeasonWeek": "17",
+        "survivorPool": "Yes",
+        "bbidTiebreaker": "TIMESTAMP",
+        "usesContractYear": "0",
+        "minKeepers": "0",
+        "injuredReserve": "2",
+        "bbidConditional": "No",
+        "startWeek": "1",
+        "victoryPointsLoss": "0",
+        "survivorPoolStartWeek": "1",
+        "survivorPoolEndWeek": "17",
+        "bbidFCFSCharge": "1",
+        "rostersPerPlayer": "1",
+        "h2h": "YES",
+        "usesSalaries": "0",
+        "victoryPointsWin": "7",
+        "bbidMinimum": "1",
+        "maxKeepers": "6",
+        "baseURL": "http://www71.myfantasyleague.com",
+        "bidIncrement": "1",
+        "loadRosters": "live_auction"
+    },
+    "encoding": "utf-8"
+}

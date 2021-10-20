@@ -1,0 +1,11 @@
+<div class="content" role="main">
+  Moffl Standings
+  <div class="team" *ngFor="let team of teams; let i = index">
+    <div class="team-tile">
+      <div>{{i + 1}}</div>
+      <div>{{team.Name}}</div>
+      <div>({{team.Wins}} - {{team.Losses}})</div>
+      <div>{{team.TotalPoints}}</div>
+    </div>
+  </div>
+</div>
